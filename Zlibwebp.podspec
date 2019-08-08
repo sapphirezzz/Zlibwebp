@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/webmproject/libwebp",
-    "tag": "v0.6.0"
+    "tag": "v1.0.3"
   },
   "compiler_flags": "-D_THREAD_SAFE",
   "requires_arc": false,
